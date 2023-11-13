@@ -1,4 +1,4 @@
-![Datadog](https://media.licdn.com/dms/image/C4E16AQFbq0tDwTPxtg/profile-displaybackgroundimage-shrink_350_1400/0/1655720891616?e=1699488000&v=beta&t=3ABFpu4mxIDHktbpG8fWoX6Vf0npHTryWRwamilRods)
+![Datadog](https://github.com/robertohuertasm/robertohuertasm/assets/696981/35744551-e9b3-4492-84ad-ea03b251a61c)
 
 ## Hi there 👋 
 
